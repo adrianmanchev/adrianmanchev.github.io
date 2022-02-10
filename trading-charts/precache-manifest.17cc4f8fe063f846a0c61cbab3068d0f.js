@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36cd617ba9807b5416a1",
-    "url": "/trading-charts/css/app.384d2efa.css"
+    "revision": "7dd044928235712d25e6",
+    "url": "/trading-charts/css/app.30a2b382.css"
   },
   {
-    "revision": "c31bfaf398a445b1710f",
-    "url": "/trading-charts/css/currencies-detail.2f4d27c2.css"
+    "revision": "f1126215e2d99ce3b22a",
+    "url": "/trading-charts/css/currencies-detail.d0ca48de.css"
   },
   {
     "revision": "7321a5c4e2a5df026a063e326b36bfe9",
@@ -32,36 +32,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trading-charts/img/websocket.3e65df6a.svg"
   },
   {
-    "revision": "be42764beba3332d1f222a4150a5cca0",
+    "revision": "74038cf61e83c480619708f25974f15e",
     "url": "/trading-charts/index.html"
   },
   {
-    "revision": "36cd617ba9807b5416a1",
-    "url": "/trading-charts/js/app.13e8b426.js"
+    "revision": "7dd044928235712d25e6",
+    "url": "/trading-charts/js/app.03dd4407.js"
   },
   {
-    "revision": "79ef0011afcfb17cb0d3",
-    "url": "/trading-charts/js/chunk-vendors.f3ddc0bd.js"
+    "revision": "96fc213c03c0580a1fdb",
+    "url": "/trading-charts/js/chunk-vendors.c72e99b9.js"
   },
   {
-    "revision": "c31bfaf398a445b1710f",
-    "url": "/trading-charts/js/currencies-detail.9b8a745b.js"
+    "revision": "f1126215e2d99ce3b22a",
+    "url": "/trading-charts/js/currencies-detail.ee9e98e3.js"
   },
   {
-    "revision": "6f7f8292f21d30da7974",
-    "url": "/trading-charts/js/currencies-top.563ea9cc.js"
+    "revision": "900ce3d1c7af1083aa0a",
+    "url": "/trading-charts/js/currencies-top.bab4041a.js"
   },
   {
-    "revision": "87a3b649ba201b54e916",
-    "url": "/trading-charts/js/currencies.bc03333d.js"
+    "revision": "72b6d68ae88628b8907b",
+    "url": "/trading-charts/js/currencies.ccb25c82.js"
   },
   {
-    "revision": "bcaa3501647f87a3cd6d",
-    "url": "/trading-charts/js/not-found.aa7c281c.js"
+    "revision": "93fa7ef721c7ffcac370",
+    "url": "/trading-charts/js/not-found.4e595061.js"
   },
   {
-    "revision": "118a2d8ca17248d24063",
-    "url": "/trading-charts/js/shortcodes.471f6cc6.js"
+    "revision": "43e892bc1eb7047a74cb",
+    "url": "/trading-charts/js/shortcodes.3271778d.js"
   },
   {
     "revision": "aa01cda7389691a3d02e3d9ca1d3a083",
