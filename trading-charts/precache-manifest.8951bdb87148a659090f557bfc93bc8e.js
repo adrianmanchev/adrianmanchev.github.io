@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4917b8b3e1aca8a74222",
+    "revision": "22d852f33da195b8b850",
     "url": "/trading-charts/css/app.743cf928.css"
   },
   {
-    "revision": "8629ea43191699ffc1e1",
+    "revision": "db1978648ad6cb8a8d9f",
     "url": "/trading-charts/css/currencies-detail.4f6236fc.css"
   },
   {
@@ -32,20 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trading-charts/img/websocket.3e65df6a.svg"
   },
   {
-    "revision": "329b2545e844559fb6b5a429fa0f3660",
+    "revision": "e25e7724a45bba4666b6d90d1248e4fc",
     "url": "/trading-charts/index.html"
   },
   {
-    "revision": "4917b8b3e1aca8a74222",
-    "url": "/trading-charts/js/app.aba71c5a.js"
+    "revision": "22d852f33da195b8b850",
+    "url": "/trading-charts/js/app.2a84e7cc.js"
   },
   {
     "revision": "9d623eb2df898587ff5a",
     "url": "/trading-charts/js/chunk-vendors.3c7093a2.js"
   },
   {
-    "revision": "8629ea43191699ffc1e1",
-    "url": "/trading-charts/js/currencies-detail.60d9bb3b.js"
+    "revision": "db1978648ad6cb8a8d9f",
+    "url": "/trading-charts/js/currencies-detail.cdf582d4.js"
   },
   {
     "revision": "587f2c91ab000b03babc",
